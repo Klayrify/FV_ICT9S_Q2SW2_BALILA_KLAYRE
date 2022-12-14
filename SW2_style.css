@@ -1,0 +1,27 @@
+	
+
+	body {background: url("catbg.jpg");background-size: contain}
+	h1 {text-align: center;}
+	div{margin: 50px}
+	h2{text-align: center}
+	hr{border-top: 4px solid #826b53;}
+
+	.smudge {color: #4a453d;background: #424038;border: 10px solid #4a453d;}
+	.descs{background: #7d7a73; padding: 25px}
+	.titles{background: #a39d8e}
+		
+	.beluga{color: #36241c; background: #593e33; border: 10px solid #36241c;} 
+	.descb{background: #7d6256; padding: 25px}
+	.titleb{background: #947263}
+		
+	.hecker{color: #3d3324; background: #6b5f4e;border: 10px solid #3d3324;}
+	.desch{background: #918471; padding: 25px}
+	.titleh{background: #ad9e8b}
+		
+	table{margin: auto}
+	hr {color: #826b53; background: #826b53}
+
+	.t1{margin-left: 375px; margin-right: 375px; border: dashed 8px;}
+	.t2{margin-left: 375px; margin-right: 375px; border: dashed 8px}
+	.t3{margin-left: 375px; margin-right: 375px;border: dashed 8px}
+	.t4{border-color:#ccb093; background-color: #947e68; margin-top: 50px;margin-bottom:50px; border: dashed 5px #4d3d2d; color: #3d3022;
